@@ -10,7 +10,7 @@ class App extends React.Component {
   render() {
     return (
        <div>
-          Curs 05
+          Curs 05 REACT
        </div>
     );
   }
